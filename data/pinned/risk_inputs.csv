@@ -1,0 +1,10 @@
+risk,short_label,category,likelihood,impact,velocity,controllability,weight,direction,evidence
+Tariff and trade-policy changes,Tariffs,External,5,5,5,2,0.18,Deteriorating,Q1 merchandise margin included roughly 200 bps of net tariff impact
+Consumer discretionary slowdown,Consumer,External,4,5,4,2,0.16,Watch,Reduced company sales-growth guidance
+Old Navy concentration and slowdown,Old Navy,Brand,4,5,4,4,0.15,Deteriorating,Old Navy represented about 57 percent of Q1 revenue with 1 percent comps
+Athleta turnaround failure,Athleta,Brand,5,3,3,4,0.12,Deteriorating,Q1 comparable sales declined 11 percent
+Promotional and inventory pressure,Promotions,Execution,3,4,4,4,0.11,Watch,Weak demand can force markdowns and reduce merchandise margin
+Sourcing and logistics disruption,Sourcing,Supply chain,4,4,4,3,0.11,Watch,Vietnam and Indonesia represented 48 percent of merchandise purchases
+Capital-return pace exceeds recurring cash flow,Buybacks,Financial,3,3,3,5,0.08,Watch,Q1 shareholder returns exceeded quarterly free cash flow
+Cybersecurity reputation and digital disruption,Cyber,Technology,3,4,5,3,0.09,Watch,Large consumer-data and ecommerce footprint
+

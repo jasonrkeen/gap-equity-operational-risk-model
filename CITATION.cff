@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this model or its methodology, please cite it using this metadata."
+title: "Gap Equity and Operational Risk Model"
+type: software
+authors:
+  - family-names: Keen
+    given-names: Jason
+version: 1.0.1
+date-released: 2026-07-30
+license: MIT
+keywords:
+  - equity research
+  - operational risk
+  - scenario analysis
+  - Monte Carlo simulation
+  - apparel retail
+abstract: >-
+  A reproducible equity valuation and operational-risk intelligence pipeline
+  for Gap Inc. combining earnings and DCF valuation, brand and sourcing
+  diagnostics, margin sensitivity, risk scoring, and Monte Carlo simulation.
+

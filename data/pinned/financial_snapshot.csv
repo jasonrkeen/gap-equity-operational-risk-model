@@ -1,0 +1,23 @@
+metric,value,unit,as_of,source_note
+share_price_usd,20.38,USD per share,2026-07-30,Market close/reference snapshot
+shares_outstanding_m,360.0,million shares,2026-07-30,Market data
+market_cap_m,7337.0,USD millions,2026-07-30,Market data
+week_52_low_usd,18.11,USD per share,2026-07-30,Gap investor relations
+week_52_high_usd,29.36,USD per share,2026-07-30,Gap investor relations
+fy2025_revenue_m,15400.0,USD millions,2026-01-31,Fiscal 2025 results
+fy2025_operating_margin,0.073,decimal,2026-01-31,Fiscal 2025 results
+fy2025_free_cash_flow_m,823.0,USD millions,2026-01-31,Fiscal 2025 results
+fy2025_diluted_eps,2.13,USD per share,2026-01-31,Fiscal 2025 results
+cash_and_short_term_investments_m,2600.0,USD millions,2026-05-02,Q1 fiscal 2026 results
+long_term_debt_m,1492.0,USD millions,2026-05-02,Q1 fiscal 2026 Form 10-Q
+operating_lease_liabilities_m,4150.0,USD millions,2026-05-02,Current plus long-term lease liabilities
+fy2026_revenue_growth_low,0.01,decimal,2026-05-28,Management guidance
+fy2026_revenue_growth_mid,0.015,decimal,2026-05-28,Management guidance midpoint
+fy2026_revenue_growth_high,0.02,decimal,2026-05-28,Management guidance
+fy2026_operating_margin_low,0.073,decimal,2026-05-28,Management guidance
+fy2026_operating_margin_high,0.075,decimal,2026-05-28,Management guidance
+fy2026_adjusted_eps_low,2.30,USD per share,2026-05-28,Management guidance
+fy2026_adjusted_eps_high,2.40,USD per share,2026-05-28,Management guidance
+fy2026_capex_m,650.0,USD millions,2026-05-28,Management guidance
+annualized_dividend_usd,0.70,USD per share,2026-05-28,Four times quarterly dividend
+
